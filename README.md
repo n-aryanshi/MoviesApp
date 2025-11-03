@@ -29,15 +29,6 @@ The app demonstrates **MVVM architecture**, **Retrofit networking**, **Hilt depe
 
 ---
 
-## Features Not Fully Implemented
-- **Toast and Snack Bar** for some cases (partially implemented).  
-- **Shimmer effect** replaced with a simple `CircularProgressIndicator` due to time constraints.  
-- **Full details** (description, release date) not fetched dynamically — currently passed from HomeScreen.  
-- **RxKotlin Single.zip integration** for simultaneous API calls was not implemented; coroutines are used instead.
-
-> These limitations are due to **time constraints**.
-
-
 Demo video link: https://drive.google.com/file/d/1qZtypw1zWm56-xUEtm_thi5383Zuo5ET/view?usp=drive_link
 ## Unit Test Cases
 
